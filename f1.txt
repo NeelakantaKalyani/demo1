@@ -3,3 +3,5 @@ Hi this is dev2
 i like to watch serials
 I am from AP
 
+added newline
+
